@@ -249,8 +249,8 @@ ol {
 	background: #df313c;
 	color: #fff;
 	margin-left: 30px;
+    margin-top: -1.7%;
 	margin-right: 70px;
-	margin-top: 15px;
 	font-size: 16px;
 	padding: 12px 19px;
 	line-height: 1;
@@ -1175,4 +1175,11 @@ ol {
 	.faq-accordion.accordion-area .panel-link:after {
 		right: 20px;
 	}
+}
+
+.space{
+       position: sticky;
+       background-color: transparent;
+       height: 7%;
+       display: flex;
 }

@@ -3,3 +3,4 @@
 описание в процессе
 Web-app for dvelopers searching for the working on projects.
 We continue to write readme, keep in touch.
+ТЗ здесь - https://docs.google.com/document/d/11DQPLyEXO4wGiOjyCECmzDpbmLmXNg7N-2RFP4ph8sQ/edit?usp=sharing
